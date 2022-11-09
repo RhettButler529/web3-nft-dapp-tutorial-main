@@ -23,4 +23,5 @@ npm run dev
 ```
 
 Update the deployed contract address in `compoonents/Home.js` 
+
 Update the network in "hardhat.config.js"
